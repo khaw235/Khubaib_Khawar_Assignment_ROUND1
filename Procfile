@@ -1,1 +1,1 @@
-web: gunicorn trial_ass_r1.wsgi --log-file -
+web: gunicorn backend_dev_trial_ass_r2.wsgi --log-file -
